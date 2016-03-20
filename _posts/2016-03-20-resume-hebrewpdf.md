@@ -1,25 +1,28 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://drive.google.com'
-  name: Google Docs
-  favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_pdf_favicon.ico'
-  domain: drive.google.com
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'https://drive.google.com/file/d/0B7LOLNCBMJgNZGcwTHdCVHBPTzQ/view'
-title: Résumé Hebrew.pdf
-datePublished: '2016-03-20T12:07:54.382Z'
-dateModified: '2016-03-20T12:06:39.030Z'
-sourcePath: _posts/2016-03-20-resume-hebrewpdf.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://drive.google.com/file/d/0B7LOLNCBMJgNZGcwTHdCVHBPTzQ/view'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-20T12:10:08.057Z'
+dateModified: '2016-03-20T12:10:07.767Z'
+author: []
+related: []
+app_links: []
+title: Résumé Hebrew.pdf
+sourcePath: _posts/2016-03-20-resume-hebrewpdf.md
+published: true
+authors: []
+publisher:
+  name: Google Docs
+  domain: drive.google.com
+  url: 'https://drive.google.com'
+  favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_pdf_favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Résumé Hebrew.pdf</h1><img src="https://lh3.googleusercontent.com/jozIzZ4OKKvtDMg6t2XEEIlCVCg7Gwdb81Oc_Gg4R9UfD77hZdLSjw=w1200-h630-p" /></article>
+<article style=""><h1>קורות החיים - עברית</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aed2abc7622f04956da7201b28ec25378d70a4b6.jpg" /></article>
