@@ -7,12 +7,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T12:10:08.057Z'
-dateModified: '2016-03-20T12:10:07.767Z'
+datePublished: '2016-03-20T12:15:52.371Z'
+dateModified: '2016-03-20T12:15:12.044Z'
 author: []
 related: []
 app_links: []
-title: Résumé Hebrew.pdf
+title: קורות החיים בעברית
 sourcePath: _posts/2016-03-20-resume-hebrewpdf.md
 published: true
 authors: []
