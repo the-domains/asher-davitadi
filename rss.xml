@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Asher Davitadi]]></title>
+        <description><![CDATA[Asher Davitadi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 12:08:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Résumé Hebrew.pdf]]></title>
+            <description><![CDATA[<article><h1>Résumé Hebrew.pdf</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aed2abc7622f04956da7201b28ec25378d70a4b6.jpg"></article>]]></description>
+            <link>https://drive.google.com/file/d/0B7LOLNCBMJgNZGcwTHdCVHBPTzQ/view</link>
+            <guid isPermaLink="false">cd82f0bd-a6d0-4dc1-b1c2-f2516f46f218</guid>
+            <pubDate>Sun, 20 Mar 2016 12:07:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
